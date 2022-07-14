@@ -26,6 +26,6 @@ const person1 = {
     age: 15,
     inClass: true,
 }
-for (cost key in person) {
+for (const key in person) {
     console.log()
 }
